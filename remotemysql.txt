@@ -1,0 +1,11 @@
+Username: diFBcnAgwR
+
+Database name: diFBcnAgwR
+
+Password: eSvleDzQXw
+
+Server: remotemysql.com
+
+Port: 3306
+
+mysql -h remotemysql.com -u diFBcnAgwR -p
